@@ -1,2 +1,2 @@
 # R-graphic-
-Notes about use R to plot
+Notes about using R to creat graphics
